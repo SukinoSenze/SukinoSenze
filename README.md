@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pongsatorn Paewsoongnern</h1>
-<h3 align="center">🧑🏻‍💻 a software engineer who also a cat salve 🐈‍⬛ from Thailand 🇹🇭</h3>
+<h3 align="center">🧑🏻‍💻 a software engineer who also a cats salve 🐈‍⬛ from Thailand 🇹🇭</h3>
 
 - 🔭 I’m currently working on **something new with elixir and phoenix :D**
 
